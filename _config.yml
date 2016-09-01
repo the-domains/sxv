@@ -1,4 +1,3 @@
-layout_spectrum: 0.02229934767819941
 typography_spectrum: 0.03414214099757373
 color:
   brandStrength: 0.4405601625330746
@@ -11,4 +10,13 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
+layout_spectrum: 0.02229934767819941
+author:
+  name: Sev Gerk
+  email: sev@modifi.co
+  url: modifi.co
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0655492b-45a7-4bdd-a902-34c6237e0a32.png
 name: sxv
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/13aa94e9-5585-41fc-aa19-cbb50b241a87.png
