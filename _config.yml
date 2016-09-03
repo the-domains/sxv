@@ -1,3 +1,4 @@
+layout_spectrum: 0.02229934767819941
 typography_spectrum: 0.03414214099757373
 color:
   brandStrength: 0.4405601625330746
@@ -5,16 +6,9 @@ color:
   saturation: 0.24380330927670002
   rhythmicContrast: 0.5711591376457363
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-layout_spectrum: 0.02229934767819941
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: sxv
-navigation:
-  - name: test?
-    id: 8986ba86-038a-442c-be07-d4d114c52331
-    type: content
-title: I am Sev.
-description: What is this?!
